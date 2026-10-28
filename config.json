@@ -1,0 +1,12 @@
+{
+  "model_name": "mobilenetv2",
+  "model_file": "crackvision_mobilenetv2.keras",
+  "img_size": 224,
+  "patch": 227,
+  "threshold": 0.5,
+  "class_names": [
+    "No Crack",
+    "Crack"
+  ],
+  "last_conv": "out_relu"
+}

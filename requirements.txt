@@ -1,0 +1,5 @@
+# ให้เวอร์ชัน tensorflow ตรงกับที่ Colab พิมพ์ออกมาใน cell แรก (เช่น 2.19.0)
+tensorflow-cpu==2.19.0
+streamlit==1.50.0
+numpy<2.2
+pillow
